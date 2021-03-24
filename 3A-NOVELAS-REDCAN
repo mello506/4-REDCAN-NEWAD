@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR white][B] NOVELAS NO REDE CANAIS[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/vZ7W6Ym/redecan-icon.png</thumbnail>
+<thumbnail>https://i.ibb.co/vVzjFq0/redecanais-4.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA SUA NOVELA PARA ASSISTIR</info>
 <genre>NOVELAS</genre>
@@ -76,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] A Viagem[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://media.fstatic.com/DF9uTKgHrk3YnlEdaWMrtA4m57A=/290x478/smart/media/movies/covers/2011/10/6354122d67d5e1c3869fc84e65b4b435.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
 <genre>NOVELAS</genre>
@@ -85,7 +85,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Viagem[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://media.fstatic.com/DF9uTKgHrk3YnlEdaWMrtA4m57A=/290x478/smart/media/movies/covers/2011/10/6354122d67d5e1c3869fc84e65b4b435.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui a novela A Viagem no REDE CANAIS</info>
 <genre>NOVELAS</genre> 
