@@ -76,7 +76,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] A Viagem[/B][/COLOR]</name>
-<thumbnail>http://logos.servidor.tv/images/1bde82d45cd4115acc3bcca01fc8618c.jpg</thumbnail>
+<thumbnail>ICONEPASTA</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
 <genre>NOVELAS</genre>
@@ -289,7 +289,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer04/ondemand/AVGMCP166.mp4$$lsname=[B]T01E166[/B][COLOR yellow] ->[/COLOR][COLOR orange] A Viagem[/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer04/ondemand/AVGMCP167.mp4$$lsname=[B]T01E167[/B][COLOR yellow] ->[/COLOR][COLOR orange] A Viagem[/COLOR]</link>
 
-<thumbnail>http://logos.servidor.tv/images/1bde82d45cd4115acc3bcca01fc8618c.jpg</thumbnail>
+<thumbnail>https://media.fstatic.com/DF9uTKgHrk3YnlEdaWMrtA4m57A=/290x478/smart/media/movies/covers/2011/10/6354122d67d5e1c3869fc84e65b4b435.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Alexandre, um marginal que se mata na cadeia após ser condenado por roubo seguido de morte e passa a infernizar a vida de todos que julga responsáveis por seu trágico destino. </info>
 <genre>NOVELAS</genre>  
@@ -300,7 +300,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] A Próxima Vítima[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dwGSHrz1mhy1RaNYoB4Ydlub6xw.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela A Próxima Vítima</info>
 <genre>NOVELAS</genre>
@@ -309,7 +309,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Próxima Vítima[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dwGSHrz1mhy1RaNYoB4Ydlub6xw.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela A Próxima Vítima no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -319,7 +319,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] A Próxima Vítima[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=6ft_bfgBdJc</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dwGSHrz1mhy1RaNYoB4Ydlub6xw.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -544,7 +544,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Baila Comigo[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wKLbLnLRZ3nT9IgtBss8YIR5qFb.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Baila Comigo</info>
 <genre>NOVELAS</genre>
@@ -553,7 +553,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Baila Comigo[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wKLbLnLRZ3nT9IgtBss8YIR5qFb.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Baila Comigo no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -563,7 +563,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Baila Comigo[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=gki2oAD2LPI</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wKLbLnLRZ3nT9IgtBss8YIR5qFb.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -750,7 +750,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Celebridade[/B][/COLOR]</name>
-<thumbnail>ICONEPASTA</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gMw9Xuz4DR32tZKGOZ1Zk55RnyC.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Celebridade</info>
 <genre>NOVELAS</genre>
@@ -759,7 +759,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Celebridade[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gMw9Xuz4DR32tZKGOZ1Zk55RnyC.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Celebridade no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -769,7 +769,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Celebridade[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=nCkGFfqU104</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gMw9Xuz4DR32tZKGOZ1Zk55RnyC.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1001,7 +1001,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer04/ondemand/CLBRDADCP220.mp4$$lsname=[B]T01E220[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Celebridade[/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer04/ondemand/CLBRDADCP221.mp4$$lsname=[B]T01E221[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Celebridade[/B][/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gMw9Xuz4DR32tZKGOZ1Zk55RnyC.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>A rivalidade entre duas mulheres: a bem-sucedida empresária e ex-modelo Maria Clara, e a dissimulada e ardilosa Laura, que se aproxima da rival dizendo ser sua maior admiradora. Na verdade, ela trama tomar posse de tudo que é de Maria Clara.</info>
 <genre>NOVELAS</genre>  
@@ -1012,7 +1012,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Água Viva[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRxb_tK17B0IxDBM3pcmg48cEW_P9ArNcyDtVS-QKW3GEdhYuu</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Água Viva</info>
 <genre>NOVELAS</genre>
@@ -1021,7 +1021,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Água Viva[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRxb_tK17B0IxDBM3pcmg48cEW_P9ArNcyDtVS-QKW3GEdhYuu</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Água Viva no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1031,7 +1031,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Água Viva[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=HHgUbi5XwxU</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRxb_tK17B0IxDBM3pcmg48cEW_P9ArNcyDtVS-QKW3GEdhYuu</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1201,7 +1201,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer14/ondemand/AGVIVCP158.mp4$$lsname=[B]T01E158[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Agua Viva [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer14/ondemand/AGVIVCP159.mp4$$lsname=[B]T01E159[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Agua Viva [/B][/COLOR]</link>
 
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRxb_tK17B0IxDBM3pcmg48cEW_P9ArNcyDtVS-QKW3GEdhYuu</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Miguel Fragonard é um cirurgião plástico de sucesso que condena o estilo de vida do irmão Nélson, um bon vivant que vive de renda. Após perder a esposa na explosão de uma lancha, o médico se apaixona por Lígia, sem saber de sua relação com Nélson.</info>
 <genre>NOVELAS</genre>  
@@ -1212,7 +1212,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Totalmente Demais[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAOKimrTisVUhe5CRn2orKrnWPqWwpIV8iyDNxoDWN4YOoe2po</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rkf47HidXAvXDLTrWvZVz6lnrIR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Totalmente Demais</info>
 <genre>NOVELAS</genre>
@@ -1221,7 +1221,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Totalmente Demais[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAOKimrTisVUhe5CRn2orKrnWPqWwpIV8iyDNxoDWN4YOoe2po</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rkf47HidXAvXDLTrWvZVz6lnrIR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Totalmente Demais no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1231,7 +1231,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Totalmente Demais[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ishsGvlsTBQ</link>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAOKimrTisVUhe5CRn2orKrnWPqWwpIV8iyDNxoDWN4YOoe2po</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rkf47HidXAvXDLTrWvZVz6lnrIR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1417,7 +1417,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer14/ondemand/TOTLMNTDMSCP174.mp4$$lsname=[B]T01E174[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Totalmente Demais [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer14/ondemand/TOTLMNTDMSCP175.mp4$$lsname=[B]T01E175[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Totalmente Demais [/B][/COLOR]</link>
 
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAOKimrTisVUhe5CRn2orKrnWPqWwpIV8iyDNxoDWN4YOoe2po</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rkf47HidXAvXDLTrWvZVz6lnrIR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Eliza é uma moça pobre que foge de casa para escapar das tentativas de estupro do padrasto, Dino, que também agride sua mãe, Gilda muita coisa acetecerá até que encontre a felicidade.</info>
 <genre>NOVELAS</genre>  
@@ -1428,7 +1428,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Topíssima[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Topíssima</info>
 <genre>NOVELAS</genre>
@@ -1437,7 +1437,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Topíssima[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Topíssima no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1447,7 +1447,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Topíssima[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=q0AMdvCfOsI</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1603,7 +1603,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer14/ondemand/TPSMACP144.mp4$$lsname=[B]T01E144[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Topissima [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer14/ondemand/TPSMACP145.mp4$$lsname=[B]T01E145[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Topissima [/B][/COLOR]</link>
 
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ea0tmZB4JvRqsqpcDK7kXdGpevR.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Sophia Alencar, uma empresária da zona sul do Rio de Janeiro, e Antonio Ramos, um taxista que mora em uma comunidade, vivem um romance improvável quando os dois se envolvem em uma investigação policial.</info>
 <genre>NOVELAS</genre>  
@@ -1614,7 +1614,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Rei Davi[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Rei Davi</info>
 <genre>NOVELAS</genre>
@@ -1623,7 +1623,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Rei Davi[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Rei Davi no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1633,7 +1633,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Rei Davi[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=LINKDOTRAILER</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1674,7 +1674,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer11/ondemand/REDVIEP29.mp4$$lsname=[B]T01E29[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Rei Davi [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer11/ondemand/REDVIEP30.mp4$$lsname=[B]T01E30[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Rei Davi [/B][/COLOR]</link>
 
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIoKwhoZh07q3Eb2dWWZA-QhOB640_0EjZF-51C9frQ3L7G9eT</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Inspirada em uma das mais lindas e conturbadoras passagens da Bíblia, a minissérie retrata a vida de um homem polêmico, um herói valente e destemido, senhor da guerra, libertador de seu povo e, ao mesmo tempo, um artista generoso e sensível, poeta, músico e amigo de Deus. Uma história de fé e coragem, que mostra como um humilde pastor de ovelhas derrotou o temível gigante Golias e transformou as doze tribos de Israel em uma nação forte e respeitada. É também a história de um amor proibido e de suas consequências devastadoras.</info>
 <genre>NOVELAS</genre>  
@@ -1685,7 +1685,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Salve-se Quem Puder[/B][/COLOR]</name>
-<thumbnail>https://s2.glbimg.com/FWeEvjPxJuJXXXLrfdTniYEX7S0=/0x0:1080x1600/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/N/b/yo0EhyTGOpRdgjJJBBAA/2020-745-novelas-salve-se-quem-puder-tv-globo-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxAxzyiWeXtT6Z9cBf4o7kCuHiT.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Salve-se Quem Puder</info>
 <genre>NOVELAS</genre>
@@ -1694,7 +1694,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Salve-se Quem Puder[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://s2.glbimg.com/FWeEvjPxJuJXXXLrfdTniYEX7S0=/0x0:1080x1600/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/N/b/yo0EhyTGOpRdgjJJBBAA/2020-745-novelas-salve-se-quem-puder-tv-globo-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxAxzyiWeXtT6Z9cBf4o7kCuHiT.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Salve-se Quem Puder no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1704,7 +1704,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Salve-se Quem Puder[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=Zmy29YDovNc</link>
-<thumbnail>https://s2.glbimg.com/FWeEvjPxJuJXXXLrfdTniYEX7S0=/0x0:1080x1600/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/N/b/yo0EhyTGOpRdgjJJBBAA/2020-745-novelas-salve-se-quem-puder-tv-globo-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxAxzyiWeXtT6Z9cBf4o7kCuHiT.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1769,7 +1769,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer14/ondemand/SLVSQMPDRCP053.mp4$$lsname=[B]T01E53[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Salve-se Quem Puder [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer14/ondemand/SLVSQMPDRCP054.mp4$$lsname=[B]T01E54[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Salve-se Quem Puder [/B][/COLOR]</link>
 
-<thumbnail>https://s2.glbimg.com/FWeEvjPxJuJXXXLrfdTniYEX7S0=/0x0:1080x1600/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/N/b/yo0EhyTGOpRdgjJJBBAA/2020-745-novelas-salve-se-quem-puder-tv-globo-poster.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mxAxzyiWeXtT6Z9cBf4o7kCuHiT.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Alexia, Luna e Kyra precisam ingressar no Programa de Proteção à Testemunha e mudar de vida após presenciarem um crime. Elas alteram o nome, a aparência, o estilo de vida e vão morar em Judas do Norte depois que são dadas como mortas.</info>
 <genre>NOVELAS</genre>  
@@ -1780,7 +1780,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Órfãos da Terra[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP-QnSCF3jo2LBLwnrYeJqlnyRf4pQxovaA&usqp=CAU</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8I3DZW3f9MKDEBxoXtOGiIDWEgc.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Novela Órfãos da Terra</info>
 <genre>NOVELAS</genre>
@@ -1789,7 +1789,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Órfãos da Terra[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP-QnSCF3jo2LBLwnrYeJqlnyRf4pQxovaA&usqp=CAU</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8I3DZW3f9MKDEBxoXtOGiIDWEgc.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista aqui os episódios da novela Órfãos da Terra no REDE CANAIS</info>
 <genre>NOVELAS</genre>  
@@ -1799,7 +1799,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Órfãos da Terra[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=FRr74ICyvd8</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP-QnSCF3jo2LBLwnrYeJqlnyRf4pQxovaA&usqp=CAU</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8I3DZW3f9MKDEBxoXtOGiIDWEgc.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Assista ao Trailer</info>
 <genre>NOVELAS</genre>  
@@ -1964,7 +1964,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://cwb.azureedge.net/RCServer07/ondemand/ORFSDTERACP153.mp4$$lsname=[B]T01E153[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Orfaos da Terra [/B][/COLOR]</link>
 <link>https://cwb.azureedge.net/RCServer07/ondemand/ORFSDTERACP154.mp4$$lsname=[B]T01E154[/B][COLOR yellow] ->[/COLOR][COLOR orange][B] Orfaos da Terra [/B][/COLOR]</link>
 
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgP-QnSCF3jo2LBLwnrYeJqlnyRf4pQxovaA&usqp=CAU</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8I3DZW3f9MKDEBxoXtOGiIDWEgc.jpg</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>Jamil é enviado ao Brasil pelo poderoso sheik Aziz Abdallah para ir atrás de Laila, uma das esposas do chefe que fugiu para a América após a morte do irmão. Sem a aprovação do sheik, Jamil acaba se apaixonando por Laila e começa um amor proibido.</info>
 <genre>NOVELAS</genre>  
